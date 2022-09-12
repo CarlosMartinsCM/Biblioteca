@@ -1,0 +1,52 @@
+@import "https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css";
+
+container {
+	width: 100px; 
+    margin-left: auto;
+    margin-right: auto;
+	border-radius: 10px;
+	margin-bottom: 10px;
+}
+
+
+img {
+	margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+	border-radius: 10px;
+}
+
+#tabelaLivros {
+	margin-top: 10px;
+	
+}
+
+.Botao1 {
+	text-decoration: none;
+	background-color: #316be1;
+	padding: 5px 10px 5px 10px;
+	color: #eeeeec;
+	font-size: 1.2em;
+	font-weight: 700;
+	border-radius: 10px;
+	border: 0;
+	cursor: pointer;
+}
+
+
+.Botao2 {
+	text-decoration: none;
+	background-color: #01313c;
+	padding: 5px 10px 5px 10px;
+	color: #eeeeec;
+	font-size: 1.2em;
+	font-weight: 700;
+	border-radius: 10px;
+	border: 0;
+	cursor: pointer;
+}
+
+#frmBook {
+	max-width: 128px;
+}
+
